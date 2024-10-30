@@ -1,0 +1,6 @@
+cd src
+
+1. g++ -o main main.cpp
+2. /.main
+
+
